@@ -1,4 +1,4 @@
-# CARE Unconditional Social Cash Transfer Front-End Demo
+# CARE Unconditional Social Cash Transfer Front-End
 
 USCT front-end demo is used to showcase a possible use-case's flow and explain what could the Building Blocks used be and how they are interconnected for a variety of use-cases.
 
